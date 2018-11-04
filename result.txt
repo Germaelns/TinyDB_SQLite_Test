@@ -1,0 +1,8 @@
+First test:
+TinyDB query time: 17.573999999996204 mc
+SQLite query time: 0.1010000000007949 mc
+
+Second test (CachingMiddleware):
+TinyDB query time: 16.01800000000253 mc
+SQLite query time: 0.06799999999884676 mc
+
